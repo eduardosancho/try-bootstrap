@@ -1,75 +1,39 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Try Bootstrap Activity
 
-> One paragraph statement about the project.
+## Learning objectives
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+- Understand the concept of CSS frameworks.
+- Use documentation for CSS frameworks.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML, Bootstrap, CSS
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up follow these simple example steps.
 
 ### Prerequisites
 
+- GIT
+
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
+Open a terminal or a git bash in the desired directory and run `https://github.com/hendridg/try-bootstrap.git`
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@eduardosancho](https://github.com/eduardosancho)
+- Twitter: [@sanchitobless](https://twitter.com/sanchitobless)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eduardo-sancho-043641181/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- GitHub: [@hendridg](https://github.com/hendridg)
+- Twitter: [@hendridg](https://twitter.com/hendridg)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/hendridg)
 
 ## 📝 License
 
